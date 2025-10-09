@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Subhi Hamed
 
-💻 Software Engineer | QA Tester | React & Node.js Developer 
+💻 Software Developer | QA Tester | React & Node.js Developer 
 | java | HTML | CSS | JAVASCRIPT | BASIC PHP | BASIC SQL|
 🌍 Based in Israel | 🎓 Practical Software Engineering Graduate  
 
