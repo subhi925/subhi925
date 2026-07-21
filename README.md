@@ -1,50 +1,122 @@
-🚀 Professional & Technical Profile | Subhi Hamed
-Practical Software Engineer (Honors) | Technical Support & QA Specialist
-"Bridging the gap between complex system logic and seamless user experience."
+# 👋 Subhi Hamed – Software Engineer & QA Specialist
 
-💡 About Me
-I don’t just write code; I solve system puzzles. With a background as a Team Leader in high-pressure logistics (Super-Pharm) and a 96 GPA in Software Engineering, I bring a unique blend of operational discipline and deep technical inquiry.
+<div align="center">
 
-🎯 Expertise: SQL & Database Investigation (Grade 100), System Troubleshooting (RCA), and QA Methodologies.
+**Practical Software Engineer | Full-Stack Developer | Technical Support & QA Expert**
 
-🧠 Mindset: I thrive on identifying root causes (RCA) and optimizing backend flows.
+[LinkedIn](https://www.linkedin.com/in/subhi-mouhammed-hamed-223410360/) • [Portfolio](https://subhimyportfolio.ct.ws) • [Email](mailto:subhihamed88@gmail.com)
 
-🎓 Academic Excellence: Selected as a Teaching Assistant for Java & SQL due to high performance.
+🌍 Based in Israel | 📊 96 GPA (Honors) | 💯 SQL Grade: 100
 
-🛠️ Tech Stack & Specialized Skills
-Databases: SQL (Advanced Queries, Joins, Data Integrity) - Expert Level
+</div>
 
-Web Development: React.js, Node.js, PHP, JavaScript (ES6+)
+---
 
-Backend & Infrastructure: Firebase, MySQL, RESTful APIs, Linux (Ubuntu/Debian)
+## 🚀 About Me
 
-QA & Troubleshooting: Postman (API Testing), Chrome DevTools, Jira, STLC/SDLC
+I'm a passionate **Software Engineer** and **QA Specialist** with a strong foundation in full-stack development, database systems, and technical troubleshooting. I combine technical expertise with problem-solving skills to build scalable solutions and identify root causes in complex systems.
 
-📂 Featured Projects
-📍 TripMaster – Full-Stack Travel Planner
-The Goal: Simplify trip coordination using real-time data.
+### 💡 What I Do
+- **Backend Development**: Node.js, REST APIs, Database design
+- **Frontend Development**: React.js, JavaScript (ES6+), responsive design
+- **Database Mastery**: Advanced SQL, MySQL, data integrity, optimization
+- **QA & Testing**: API testing, end-to-end testing, automation, root cause analysis
+- **Technical Troubleshooting**: System debugging, log analysis, performance optimization
 
-The Tech: React, PHP, MySQL, and Google Maps API.
+---
 
-The Challenge: Solved complex synchronization issues between frontend state management and Firebase Auth.
+## 🛠️ Tech Stack
 
-✅ QAcart Todo – Technical QA & Debugging
-Focus: End-to-End testing and API investigation.
+| Category | Technologies |
+|----------|---------------|
+| **Languages** | JavaScript, Python, PHP, SQL, Java |
+| **Frontend** | React.js, HTML5, CSS3, ES6+ |
+| **Backend** | Node.js, PHP, Express, RESTful APIs |
+| **Databases** | MySQL, Firebase, SQL optimization |
+| **Tools & Platforms** | Git, Postman, Chrome DevTools, Jira, Linux |
+| **Specializations** | QA Methodologies, STLC/SDLC, RCA, API Testing |
 
-Key Achievement: Used Postman and Network Inspection to identify and document server-side bottlenecks.
+---
 
-📊 Quick Stats
-🏆 GPA: 96 (Honors)
+## 📂 Featured Projects
 
-💯 SQL Grade: 100
+### 🗺️ **[TripMaster](https://github.com/subhi925/TripMasterv01)** – Full-Stack Travel Planner
+- **Stack**: React, PHP, MySQL, Google Maps API
+- **Highlights**: Real-time trip coordination, state management, Firebase authentication
+- **Key Achievement**: Solved complex synchronization between frontend and backend systems
 
-📈 Experience: 6+ years managing ERP & Back-Office systems.
+### 💬 **[Python Client-Server Chat](https://github.com/subhi925/python-client-server-chat)** – Networking Fundamentals
+- **Stack**: Python, TCP/IP, Tkinter GUI, Threading
+- **Highlights**: Multi-threaded communication, Caesar cipher encryption, real-time messaging
+- **Learning Focus**: Network architecture, socket programming, concurrent processing
 
-📫 Let's Connect
-LinkedIn: https://www.linkedin.com/in/subhi-mouhammed-hamed-223410360/ 
+### 📊 **[Custom Log Analyzer & Reporter](https://github.com/subhi925/Log-Analyzer-Python)** – Production Tool
+- **Stack**: Python, Regex, JSON, datetime
+- **Highlights**: Two architectural versions (v1.0 procedural → v2.0 enterprise-ready)
+- **Key Features**: Time-based filtering, regex parsing, configurable analysis, report generation
+- **Use Case**: Application Support & QA teams analyzing system logs efficiently
 
-Email: subhihamed88@gmail.com
+### 🎨 **[Personal Portfolio](https://github.com/subhi925/portfolio)** – Web Development
+- **Stack**: HTML5, CSS3, JavaScript, Responsive Design
+- **Highlights**: Clean UI, smooth animations, dynamic project gallery
+- **Status**: Continuously updated with new features
 
-Location: Israel 🌍
+### ✅ **[To-Do List Web App](https://github.com/subhi925/To-D0-Lst)** – Vanilla JavaScript
+- **Stack**: HTML5, CSS3, JavaScript (no frameworks)
+- **Highlights**: Task management, local storage persistence, clean interface
 
-מה שינינו כאן ולמה זה עובד?
+---
+
+## 🎓 Academic Excellence
+
+- 🏆 **96 GPA** – Practical Software Engineering (Honors)
+- 💯 **100 Grade** – Advanced SQL & Database Investigations
+- 🎯 **Teaching Assistant** – Selected for Java & SQL courses
+- 📈 **6+ years** – Experience with ERP & Back-Office systems
+
+---
+
+## 💼 Key Competencies
+
+✅ **Problem-Solving**: Root Cause Analysis (RCA), debugging, system optimization  
+✅ **Full-Stack Development**: Building end-to-end applications  
+✅ **Quality Assurance**: Test planning, API testing, automation  
+✅ **Database Design**: Schema design, query optimization, data integrity  
+✅ **Communication**: Bridging technical and non-technical teams  
+✅ **Leadership**: Team coordination, mentoring experience
+
+---
+
+## 📊 Quick Stats
+
+- **Repositories**: 15+ active projects
+- **Languages**: 5+ programming languages
+- **Focus Areas**: Full-Stack Development, QA, Database Systems
+- **Learning Path**: Continuous improvement in React, Node.js, DevOps
+
+---
+
+## 🔗 Let's Connect
+
+I'm always interested in collaborating on meaningful projects, discussing technical challenges, and learning from the community.
+
+- 💼 **LinkedIn**: [Subhi Mouhammed Hamed](https://www.linkedin.com/in/subhi-mouhammed-hamed-223410360/)
+- 📧 **Email**: [subhihamed88@gmail.com](mailto:subhihamed88@gmail.com)
+- 🌐 **Portfolio**: [subhimyportfolio.ct.ws](https://subhimyportfolio.ct.ws)
+- 💻 **GitHub**: [github.com/subhi925](https://github.com/subhi925)
+
+---
+
+## 📚 Latest Blog Insights
+
+*Technical articles and learning experiences coming soon!*
+
+---
+
+<div align="center">
+
+**⭐ If you find my projects helpful, please give them a star!**
+
+Last Updated: 2026 | Always Learning & Growing 🚀
+
+</div>
